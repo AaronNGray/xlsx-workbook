@@ -49,6 +49,7 @@ class XLSXWorkbook
 const XLSXWorkbook = require("./index.js");
 
 const dataURL = new URL("https://fingertips.phe.org.uk/documents/Historic%20COVID-19%20Dashboard%20Data.xlsx");
+const filename = "Historic COVID-19 Dashboard Data.xlsx"
 
 var workbook = new XLSXWorkbook(dataURL);
 
