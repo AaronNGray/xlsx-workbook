@@ -1,0 +1,14 @@
+{
+  "name": "xlsx-workbook",
+  "version": "0.0.1",
+  "description": "XLSXWorkbook class",
+  "main": "xlsx.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "AaronNGray",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.15.6"
+  }
+}
