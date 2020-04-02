@@ -5,6 +5,10 @@ A class based wrapper for https://github.com/SheetJS/sheetjs
 ## install
 
 ```
+npm install --save https://github.com/AaronNGray/xlsx-workbook.git
+```
+Will have on NPM later
+```
 npm install --save xlsx-workbook
 ```
 
