@@ -1,6 +1,6 @@
 # xlsx-workbook class
 
-A wrapper based on https://github.com/SheetJS/sheetjs
+A class based wrapper for https://github.com/SheetJS/sheetjs
 
 ## install
 
